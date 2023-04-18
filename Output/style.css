@@ -1,5 +1,9 @@
+.body {
+    background-color: beige;
+}
 .jumbotron {
     border-radius: 0;
+    background-color: blanchedalmond;
 }
 
 .employee-card {
